@@ -15,3 +15,7 @@
 ### Task 3 : Exploratory Data Analysis - Retail
 
 #### Objective of the Task is to find out the weak areas where you can Work to Make More Profit.
+
+### Task 4 : Exploratory Data Analysis - Terrorism
+
+#### Objective of the Task is to Perform EDA on  'GlobalTerrorism' Dataset.  As a Security/Defense Analyst, and try to find out the hot zone of Terrorism.
