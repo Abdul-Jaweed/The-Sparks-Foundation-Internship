@@ -34,3 +34,10 @@
 #### YouTube Link : https://youtu.be/Tro_Pqx0ezQ
 
 #### Dashboard Link : https://public.tableau.com/views/TheStoryofIPL2008-2019/TheStoryofIPL?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+### Task 6 : Prediction Using Decision Tree Algorithm
+
+#### Objective of the Task is to Create the Decision Tree Classifier and Visualize it Graphically.
+
+#### YouTube Link : https://youtu.be/OIV8-MCQtSw
