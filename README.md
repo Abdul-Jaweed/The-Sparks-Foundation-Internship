@@ -41,3 +41,9 @@
 #### Objective of the Task is to Create the Decision Tree Classifier and Visualize it Graphically.
 
 #### YouTube Link : https://youtu.be/OIV8-MCQtSw
+
+### Task 7 : Stock Market Prediction
+
+#### Objective of the Task is to Create a Hybrid Model for Stock Price/ Performance Prediction Using Numerical Analysis of Historical Stock Prices and Sentimantal Analysis of News Headlines.
+
+#### YouTube Link : https://youtu.be/-7740pkpVak
