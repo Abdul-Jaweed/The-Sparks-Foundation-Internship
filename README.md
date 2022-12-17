@@ -47,3 +47,9 @@
 #### Objective of the Task is to Create a Hybrid Model for Stock Price/ Performance Prediction Using Numerical Analysis of Historical Stock Prices and Sentimantal Analysis of News Headlines.
 
 #### YouTube Link : https://youtu.be/-7740pkpVak
+
+### Task 8 : Prediction Using Decision Tree Algorithm
+
+#### Objective of the Task is to Create a Dashboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc). 
+
+#### YouTube Link : https://youtu.be/MxRv3dAl7m4
